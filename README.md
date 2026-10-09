@@ -1,5 +1,3 @@
-![Elysia's banner](github-header-banner.png)
-
 ## Hi, I'm Elysia! 👋
 
 I'm a Software Engineering student who enjoys exploring how technology can turn ideas into useful applications. I'm interested in creating software that is both functional and easy to use, and I'm always looking for opportunities to learn and improve my skills.
@@ -19,4 +17,4 @@ In particular, I look forward to:
 
 By the end of this course, I hope to feel more confident working with existing software and contributing meaningful improvements.
 
-<img src="me.jpg" alt="Photo of Elysia" width="250">
+<img src="elysia.jpg" alt="Photo of Elysia" width="250">
