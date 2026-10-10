@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Elysia! 👋
 
-<!--
-**elysiayunggg/elysiayunggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student who enjoys exploring how technology can turn ideas into useful applications. I'm interested in creating software that is both functional and easy to use, and I'm always looking for opportunities to learn and improve my skills.
 
-Here are some ideas to get you started:
+Outside of my studies, I enjoy exploring cafés and watching movies. ☕🎬
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Expectations for WIF3005 📚
+
+Through the Software Maintenance and Evolution course, I hope to learn how to improve existing software and keep it useful as requirements change.
+
+In particular, I look forward to:
+
+- **Understanding legacy systems** and the challenges of maintaining existing code.
+- **Learning to fix bugs and refactor code** while preserving existing functionality.
+- **Gaining hands-on experience with GitHub**, pull requests, and code reviews.
+- **Developing better teamwork skills** and writing clearer documentation.
+
+By the end of this course, I hope to feel more confident working with existing software and contributing meaningful improvements.
+
+<img src="elysia.jpg" alt="Photo of Elysia" width="250">
